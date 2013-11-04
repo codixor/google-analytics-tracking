@@ -1,0 +1,30 @@
+.reveal h1 {
+    line-height: 1.5em;
+}
+
+.reveal .progress {
+    height: 12px;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.weak {
+    color: #666;
+}
+
+pre {
+    background: transparent !important;
+    box-shadow: none !important;
+    font-size: 1em !important;
+    margin: 0 !important;
+    overflow-y: hidden;
+    padding: 0 !important;
+}
+
+pre code {
+    background: transparent !important;
+    color: #CCC;
+    overflow-y: hidden;
+}
